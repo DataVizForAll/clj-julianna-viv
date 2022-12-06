@@ -1,8 +1,8 @@
 # dataviz-story-template
 DataVizForAll.org story template using modified Bootstrap
 
-## Live view (replace with your own published link in Settings > Pages)
-https://jrieker2.github.io/Juliannas-sample/
+## Live view
+https://datavizforall.org/clj-julianna-viv
 
-## Instructions
-Read steps inside the `index.html` file
+## forked from
+https://github.com/jrieker2/Juliannas-sample/
